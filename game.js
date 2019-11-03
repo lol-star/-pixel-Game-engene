@@ -1,0 +1,1 @@
+var pixel = new Pixel(300, 300, "red");
